@@ -1,7 +1,7 @@
 # TryHackMe — Love at First Breach
 
 **Room:** Love at First Breach  
-**Source:** `Love-at-First-Breach_TryHackMe(2).pdf` (49 pages)
+**Source:** `Love-at-First-Breach_TryHackMe.pdf` (49 pages)
 
 The supplied write-up documents ten web challenges. This summary follows its recorded methods and omits flags and sensitive payload values.
 
