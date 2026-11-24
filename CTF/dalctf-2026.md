@@ -1,7 +1,7 @@
 # DALCTF 2026 — Detailed Challenge Write-ups
 
 **Author:** Prithak Das  
-**Source:** Personal notes, `DalCTF2026_writeup(2).pdf` (17 pages)  
+**Source:** Personal notes, `DalCTF2026_writeup.pdf` (17 pages)  
 **Challenges documented:** 8
 
 This walkthrough follows the supplied notes and screenshots. Where the PDF does not contain the exact code, cryptographic parameters, or derivation, that limitation is stated rather than guessed.
