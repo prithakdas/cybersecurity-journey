@@ -25,6 +25,13 @@ I'm documenting my cybersecurity journey through practical labs, CTFs, security 
 
 > The goal is genuine progress and useful documentation—not commits for the sake of a streak.
 
+## `$ background`
+
+- **Education:** M.Sc. in Advanced Networking & Cyber Security, Brainware University (2024–2026).
+- **CGPA:** 8.98, as listed on my public LinkedIn education profile.
+
+See the [LinkedIn profile](https://www.linkedin.com/in/prithak-das/) for the public education, certification, project, and experience record.
+
 ## `$ current_focus`
 
 | Domain | What I'm working on |
@@ -44,10 +51,16 @@ I'm documenting my cybersecurity journey through practical labs, CTFs, security 
 cybersecurity-journey/
 ├── README.md
 ├── Daily-Logs/
+│   ├── README.md
 │   └── 2026/
 │       ├── November/
 │       └── December/
 ├── CTF/
+│   ├── README.md
+│   ├── c4ptur3-th3-fl4g.md
+│   ├── dalctf-2026.md
+│   ├── love-at-first-breach-tryhackme.md
+│   └── CTFtime-2026-snapshot-2026-11-25.md
 ├── Web-Penetration-Testing/
 ├── API-Security/
 ├── Bug-Bounty/
@@ -56,6 +69,7 @@ cybersecurity-journey/
 ├── LLM-Security/
 ├── Tools-and-Labs/
 └── Resources/
+    └── Profile-Tracking.md
 ```
 
 ## `$ daily_log_format`
@@ -69,6 +83,16 @@ Daily notes use a consistent format so progress stays clear and useful:
 - **Next step:** A concrete follow-up task.
 
 See [Daily-Logs/README.md](Daily-Logs/README.md) for the logging guide and entry template.
+
+## `$ profiles`
+
+- [LinkedIn](https://www.linkedin.com/in/prithak-das/)
+- [CTFtime — Syntax Terror team](https://ctftime.org/team/437085)
+- [CTFtime — LordKraken individual profile](https://ctftime.org/user/261765)
+- [Dated public-profile tracking notes](Resources/Profile-Tracking.md)
+- [CTFtime 2026 team snapshot](CTF/CTFtime-2026-snapshot-2026-11-25.md)
+
+CTFtime team placements are kept separate from individual results. Ranking snapshots are date-stamped because they can change.
 
 ## `$ principles`
 
