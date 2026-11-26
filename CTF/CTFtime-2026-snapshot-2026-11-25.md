@@ -33,7 +33,21 @@ The following are **team placements** shown in the same indexed result. They are
 | CSS CTF 2026: Return of Nexus | #182 | 1,494 | 17.677 |
 | SecLeaf Q2 CTF 2026 | #182 | 3,005 | 0.000 |
 
-## Supplemental event rows observed during the 2026-11-26 review\n\nThe indexed team profile also displayed these entries. The source page is cached/indexed rather than directly accessible, so this table is supplemental transcription, not a claim that these events happened after the original snapshot.\n\n| Event | Team place | CTF points | Rating points |\n|---|---:|---:|---:|\n| SpookyCTF 2026 | #274 | 880 | 3.092 |\n| CSCTF 2026 | #416 | 1,330 | 1.138 |\n| HI Cyber Con 2026 CTF | #488 | 814 | 3.999 |\n| RSTCON 2026 CTF | #230 | 90 | 0.686 |\n| cruXipher 2026 — ATMoS '26, BITS Hyderabad | #224 | 300 | 3.169 |\n\nThe indexed team result still showed the #732 / 114.232 / #77 ranking. An older cached result showed #675 / 113.963 / #67, so the rank snapshots conflict and are not treated as a verified chronological progression.\n\n## Attribution
+## Supplemental event rows observed during the 2026-11-26 review
+
+The indexed team profile also displayed these entries. The source page is cached/indexed rather than directly accessible, so this table is supplemental transcription, not a claim that these events happened after the original snapshot.
+
+| Event | Team place | CTF points | Rating points |
+|---|---:|---:|---:|
+| SpookyCTF 2026 | #274 | 880 | 3.092 |
+| CSCTF 2026 | #416 | 1,330 | 1.138 |
+| HI Cyber Con 2026 CTF | #488 | 814 | 3.999 |
+| RSTCON 2026 CTF | #230 | 90 | 0.686 |
+| cruXipher 2026 — ATMoS '26, BITS Hyderabad | #224 | 300 | 3.169 |
+
+The indexed team result still showed the #732 / 114.232 / #77 ranking. An older cached result showed #675 / 113.963 / #67, so the rank snapshots conflict and are not treated as a verified chronological progression.
+
+## Attribution
 
 The Syntax Terror team profile lists **LordKraken** among its current members. The event placements and rating above belong to the team as a whole. They should not be presented as Prithak's individual score or individual event placement.
 
