@@ -37,7 +37,7 @@ See the [LinkedIn profile](https://www.linkedin.com/in/prithak-das/) for the pub
 | Domain | What I'm working on |
 |---|---|
 | Web Security / VAPT | Web application testing, methodology, findings, and remediation |
-| API Security | API fundamentals, authorization, authentication, and OWASP API risks |
+| API Security | API fundamentals, authorization, authentication, and OWASP API risks — [starter checklist](./API-Security/README.md) |
 | CTF Practice | Challenge notes, investigation steps, and lessons learned |
 | Bug Bounty | Scope-aware research, validation, and responsible reporting |
 | Active Directory | Enumeration, attack paths, and Windows domain security |
