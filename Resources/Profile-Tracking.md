@@ -10,7 +10,15 @@ This page records the public profile sources used to verify cybersecurity learni
 | CTFtime — team | [Syntax Terror](https://ctftime.org/team/437085) | Team event participation, team placements, and team rating |
 | CTFtime — individual | [LordKraken](https://ctftime.org/user/261765) | Individual participation, placements, and rating when publicly accessible |
 
-## Review log — 2026-11-26\n\n- **LinkedIn:** The indexed public profile continues to show the M.Sc. education entry with CGPA 8.98 and previously recorded certifications. The search result is not a fresh activity feed, and direct access was blocked (HTTP 999); no new post, certification, or project update is verified today. [Profile](https://www.linkedin.com/in/prithak-das/)\n- **CTFtime team:** An indexed team result crawled about three days before this review shows #732 overall, 114.232 rating points, and country #77—the same values as the 2026-11-25 snapshot. It also exposes additional event rows recorded in the supplemental table of the dated snapshot. The direct team page returned HTTP 403. [Team profile](https://ctftime.org/team/437085)\n- **Older indexed result discrepancy:** Another older indexed team-page result shows #675, 113.963 points, and country #67. Because cached snapshots conflict and the direct page is blocked, this review does not treat them as a reliable rank change or time-series comparison.\n- **CTFtime individual:** Direct access remains unavailable (403/disabled); search did not provide a verifiable current individual rank or score. No individual ranking is inferred from team results. [Individual profile](https://ctftime.org/user/261765)\n- **Conclusion:** No new personal achievement, certification, or individual CTF result was verified today.\n\n## Public LinkedIn profile snapshot
+## Review log — 2026-11-26
+
+- **LinkedIn:** The indexed public profile continues to show the M.Sc. education entry with CGPA 8.98 and previously recorded certifications. The search result is not a fresh activity feed, and direct access was blocked (HTTP 999); no new post, certification, or project update is verified today. [Profile](https://www.linkedin.com/in/prithak-das/)
+- **CTFtime team:** An indexed team result crawled about three days before this review shows #732 overall, 114.232 rating points, and country #77—the same values as the 2026-11-25 snapshot. It also exposes additional event rows recorded in the supplemental table of the dated snapshot. The direct team page returned HTTP 403. [Team profile](https://ctftime.org/team/437085)
+- **Older indexed result discrepancy:** Another older indexed team-page result shows #675, 113.963 points, and country #67. Because cached snapshots conflict and the direct page is blocked, this review does not treat them as a reliable rank change or time-series comparison.
+- **CTFtime individual:** Direct access remains unavailable (403/disabled); search did not provide a verifiable current individual rank or score. No individual ranking is inferred from team results. [Individual profile](https://ctftime.org/user/261765)
+- **Conclusion:** No new personal achievement, certification, or individual CTF result was verified today.
+
+## Public LinkedIn profile snapshot
 
 **Reviewed:** 2026-11-25
 
