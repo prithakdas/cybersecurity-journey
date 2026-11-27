@@ -40,7 +40,7 @@ See the [LinkedIn profile](https://www.linkedin.com/in/prithak-das/) for the pub
 | API Security | API fundamentals, authorization, authentication, and OWASP API risks — [starter checklist](./API-Security/README.md) |
 | CTF Practice | Challenge notes, investigation steps, and lessons learned |
 | Bug Bounty | Scope-aware research, validation, and responsible reporting |
-| Active Directory | Enumeration, attack paths, and Windows domain security |
+| Active Directory | Enumeration, attack paths, and Windows domain security — [assessment checklist](./Active-Directory/README.md) |
 | Cloud Security | Core cloud concepts, configuration review, and security testing |
 | LLM Security | Understanding and testing risks in AI-enabled applications |
 | Tools & Labs | Practical notes, commands, configurations, and reproducible experiments |
@@ -64,7 +64,7 @@ cybersecurity-journey/
 ├── Web-Penetration-Testing/
 ├── API-Security/
 ├── Bug-Bounty/
-├── Active-Directory/
+├── Active-Directory/\n│   └── README.md
 ├── Cloud-Security/
 ├── LLM-Security/
 ├── Tools-and-Labs/
