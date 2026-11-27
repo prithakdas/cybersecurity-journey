@@ -44,3 +44,11 @@ The profile search result was available, but opening the LinkedIn page directly 
 4. If a profile is blocked, stale, or unavailable, record the limitation instead of guessing.
 5. Add achievements only when the public source clearly supports them.
 6. Do not publish private program details, credentials, personal data, or sensitive client information.
+
+
+## Review log — 2026-11-27
+
+- **LinkedIn:** A public search-indexed profile result surfaced during this review. The result itself was crawled last month, so it is not a fresh activity feed. It lists the completed M.Sc. in Advanced Networking & Cyber Security at Brainware University (2024–2026), CGPA 8.98, and previously documented certifications. The profile also lists projects including Advanced EIGRP Routing, Enterprise Network Design using routing protocols, a Flask Password Strength Checker, and a phishing-awareness simulation project. These are profile-listed items, not newly verified work today. [LinkedIn profile](https://www.linkedin.com/in/prithak-das/)
+- **CTFtime team:** The latest indexed team page found in this review (crawled approximately four days before the review) shows #732 overall, 114.232 rating points, country #77, and a broader event-results table. The older indexed result still conflicts (#675 / 113.963 / #67), and direct page access was blocked. This is not treated as a verified ranking change. [Team profile](https://ctftime.org/team/437085)
+- **CTFtime individual:** The individual page remained unavailable for reliable current rank/score verification. No personal score or rank is inferred from team placements. [Individual profile](https://ctftime.org/user/261765)
+- **Conclusion:** No new post, certification, personal achievement, or individual CTF result was verified today. The current public-profile descriptions were refreshed for reference only.
