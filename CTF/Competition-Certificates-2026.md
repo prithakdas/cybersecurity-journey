@@ -8,7 +8,7 @@ This page records competition participation certificates and team placements tha
 |---|---|---|---|
 | SecLeaf Q4 Operations CTF | 31 Oct 2026 | Syntax Terror (team) | Rank 112 (certificate variant with rank) |
 | THEM?! CTF 2026 | 2026 | Syntax Terror (team) | Participation certificate |
-| VIT CTF 2026 | 27 Jun 2026 | Syntax Terror / LordKraken | Rank 656 of 951 (certificate) |
+| VIT CTF 2026 | 27 Jun 2026 | Syntax Terror (team) | Rank 656 of 951 (certificate) |
 | Zero Day Heist 2026 | 6 Jun 2026 | Individual certificate | Participation |
 | Null Origin CTF 2026 | 19 Sep 2026 | Individual certificate | Participation |
 | Athena CTF 2026 | 18 Jul 2026 | Syntax Terror (team) | Rank 171; team code shown: BEZ6NT |
@@ -22,7 +22,7 @@ This page records competition participation certificates and team placements tha
 
 - Results and ranks above are transcribed from the supplied certificates.
 - Ranks are event-specific and should not be treated as global CTFtime rankings.
-- The VIT certificate explicitly shows an event rank of 656/951; it is not presented as a team leaderboard placement unless the event certificate establishes that.
+- The VIT certificate explicitly shows an event rank of 656/951 and names Syntax Terror.
 - Participation certificates are recorded as participation only.
 - For CTFtime season standings and event results, see the dated [CTFtime snapshots](./CTFtime-2026-snapshot-2026-11-25.md) and [team snapshot](./CTFtime-team-snapshot-2026-11-27.md).
 
