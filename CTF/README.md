@@ -12,19 +12,21 @@ Write-ups summarized from my completed CTF and TryHackMe notes.
 
 ## Competition tracking
 
-- [Syntax Terror — CTFtime 2026 snapshot](./CTFtime-2026-snapshot-2026-11-25.md)
+- [Latest indexed Syntax Terror team snapshot — 2026-11-27](./CTFtime-team-snapshot-2026-11-27.md)
+- [Historical Syntax Terror snapshot — 2026-11-25](./CTFtime-2026-11-25.md)
 - [Live Syntax Terror team profile](https://ctftime.org/team/437085)
 - [Live LordKraken individual profile](https://ctftime.org/user/261765)
 
-Team placements and individual results are tracked separately. The dated snapshot is a historical team-level record, not a live ranking guarantee.
+Team placements and individual results are tracked separately. Snapshots are historical/indexed data, not live ranking guarantees.
 
 ## Documentation rules
 
-- These notes summarize the supplied personal PDFs; gaps are not filled with guesses.
+- These notes summarize supplied personal PDFs; gaps are not filled with guesses.
 - Flags, credentials, private target data, and sensitive engagement information are intentionally omitted.
 - Practice only in authorized CTF instances and lab environments.
 - Prefer reproducible methodology and explain the evidence behind conclusions.
 - Attribute team results to the team; do not present them as individual placements.
 
 ---
+
 `root@lordkraken:~/cybersecurity-journey/CTF$`
