@@ -45,6 +45,22 @@ See the [LinkedIn profile](https://www.linkedin.com/in/prithak-das/) for the pub
 | LLM Security | Understanding and testing risks in AI-enabled applications — [notes](./LLM-Security/README.md) |
 | Tools & Labs | Practical notes, commands, configurations, and reproducible experiments — [notes](./Tools-and-Labs/README.md) |
 
+## `$ competition_highlights`
+
+Selected 2026 CTF certificates and team results, transcribed from certificates:
+
+- **BroncoCTF 2026:** Syntax Terror — Rank 129; 35/45 challenges and 1,722/3,777 points.
+- **BrunnerCTF 2026:** Syntax Terror — 231/1,103 teams, 2,790 points.
+- **Athena CTF 2026:** Syntax Terror — Rank 171.
+- **SecLeaf Q4 Operations:** Syntax Terror — Rank 112.
+- **VIT CTF 2026:** Syntax Terror certificate — Rank 656/951.
+- **Junior Crypt CTF 2026:** Syntax Terror — 308th place.
+- Participation certificates: THEM?! CTF 2026, Zero Day Heist 2026, Null Origin CTF 2026, Hackerverse DFIR CTF, and CSSCTF: Return of Nexus.
+
+[Full certificate/result index →](./CTF/Competition-Certificates-2026.md)
+
+*Team placements are credited to Syntax Terror. Participation certificates are not presented as rankings; event ranks are distinct from CTFtime season rankings.*
+
 ## `$ repository_map`
 
 ```text
@@ -57,6 +73,7 @@ cybersecurity-journey/
 │       └── December/README.md
 ├── CTF/
 │   ├── README.md
+│   ├── Competition-Certificates-2026.md
 │   ├── c4ptur3-th3-fl4g.md
 │   ├── dalctf-2026.md
 │   ├── love-at-first-breach.md
