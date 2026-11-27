@@ -36,14 +36,14 @@ See the [LinkedIn profile](https://www.linkedin.com/in/prithak-das/) for the pub
 
 | Domain | What I'm working on |
 |---|---|
-| Web Security / VAPT | Web application testing, methodology, findings, and remediation |
+| Web Security / VAPT | Web application testing, methodology, findings, and remediation — [web testing reference](./Web-Penetration-Testing/README.md) |
 | API Security | API fundamentals, authorization, authentication, and OWASP API risks — [starter checklist](./API-Security/README.md) |
-| CTF Practice | Challenge notes, investigation steps, and lessons learned |
-| Bug Bounty | Scope-aware research, validation, and responsible reporting |
+| CTF Practice | Challenge notes, investigation steps, and lessons learned — [CTF index](./CTF/README.md) |
+| Bug Bounty | Scope-aware research, validation, and responsible reporting — [notes](./Bug-Bounty/README.md) |
 | Active Directory | Enumeration, attack paths, and Windows domain security — [assessment checklist](./Active-Directory/README.md) |
-| Cloud Security | Core cloud concepts, configuration review, and security testing |
-| LLM Security | Understanding and testing risks in AI-enabled applications |
-| Tools & Labs | Practical notes, commands, configurations, and reproducible experiments |
+| Cloud Security | Core cloud concepts, configuration review, and security testing — [notes](./Cloud-Security/README.md) |
+| LLM Security | Understanding and testing risks in AI-enabled applications — [notes](./LLM-Security/README.md) |
+| Tools & Labs | Practical notes, commands, configurations, and reproducible experiments — [notes](./Tools-and-Labs/README.md) |
 
 ## `$ repository_map`
 
@@ -53,22 +53,25 @@ cybersecurity-journey/
 ├── Daily-Logs/
 │   ├── README.md
 │   └── 2026/
-│       ├── November/
-│       └── December/
+│       ├── November/README.md
+│       └── December/README.md
 ├── CTF/
 │   ├── README.md
 │   ├── c4ptur3-th3-fl4g.md
 │   ├── dalctf-2026.md
+│   ├── love-at-first-breach.md
 │   ├── love-at-first-breach-tryhackme.md
-│   └── CTFtime-2026-snapshot-2026-11-25.md
-├── Web-Penetration-Testing/
-├── API-Security/
-├── Bug-Bounty/
-├── Active-Directory/\n│   └── README.md
-├── Cloud-Security/
-├── LLM-Security/
-├── Tools-and-Labs/
+│   ├── CTFtime-2026-snapshot-2026-11-25.md
+│   └── CTFtime-team-snapshot-2026-11-27.md
+├── Web-Penetration-Testing/README.md
+├── API-Security/README.md
+├── Bug-Bounty/README.md
+├── Active-Directory/README.md
+├── Cloud-Security/README.md
+├── LLM-Security/README.md
+├── Tools-and-Labs/README.md
 └── Resources/
+    ├── README.md
     └── Profile-Tracking.md
 ```
 
@@ -90,7 +93,8 @@ See [Daily-Logs/README.md](Daily-Logs/README.md) for the logging guide and entry
 - [CTFtime — Syntax Terror team](https://ctftime.org/team/437085)
 - [CTFtime — LordKraken individual profile](https://ctftime.org/user/261765)
 - [Dated public-profile tracking notes](Resources/Profile-Tracking.md)
-- [CTFtime 2026 team snapshot](CTF/CTFtime-2026-snapshot-2026-11-25.md)
+- [Latest indexed CTFtime team snapshot — 2026-11-27](CTF/CTFtime-team-snapshot-2026-11-27.md)
+- [Historical CTFtime snapshot — 2026-11-25](CTF/CTFtime-2026-11-25.md)
 
 CTFtime team placements are kept separate from individual results. Ranking snapshots are date-stamped because they can change.
 
