@@ -94,7 +94,7 @@ See [Daily-Logs/README.md](Daily-Logs/README.md) for the logging guide and entry
 - [CTFtime — LordKraken individual profile](https://ctftime.org/user/261765)
 - [Dated public-profile tracking notes](Resources/Profile-Tracking.md)
 - [Latest indexed CTFtime team snapshot — 2026-11-27](CTF/CTFtime-team-snapshot-2026-11-27.md)
-- [Historical CTFtime snapshot — 2026-11-25](CTF/CTFtime-2026-11-25.md)
+- [Historical CTFtime snapshot — 2026-11-25](CTF/CTFtime-2026-snapshot-2026-11-25.md)
 
 CTFtime team placements are kept separate from individual results. Ranking snapshots are date-stamped because they can change.
 
