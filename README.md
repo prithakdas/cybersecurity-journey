@@ -45,6 +45,12 @@ See the [LinkedIn profile](https://www.linkedin.com/in/prithak-das/) for the pub
 | LLM Security | Understanding and testing risks in AI-enabled applications — [notes](./LLM-Security/README.md) |
 | Tools & Labs | Practical notes, commands, configurations, and reproducible experiments — [notes](./Tools-and-Labs/README.md) |
 
+## `$ certifications`
+
+Verified completed credentials and course certificates are indexed separately from CTF participation:
+
+- [Cybersecurity certifications & course completions](./Certifications/README.md) — CWL, Red Team Leaders, Cisco Networking Academy, and TCM Security certificates.
+
 ## `$ competition_highlights`
 
 Selected 2026 CTF certificates and team results, transcribed from certificates:
