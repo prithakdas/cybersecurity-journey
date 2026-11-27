@@ -1,14 +1,17 @@
 # CTF Write-ups & Challenge Notes
 
-Write-ups summarized from my completed CTF and TryHackMe notes.
+Write-ups and summaries based on my completed CTF and TryHackMe notes. Flags, credentials, and sensitive values are intentionally omitted.
 
 ## Challenge write-ups
 
-| Write-up | Platform / Event | Main areas |
-|---|---|---|
-| [c4ptur3-th3-fl4g](./c4ptur3-th3-fl4g.md) | TryHackMe | Encoding, CyberChef, spectrograms, steganography |
-| [DALCTF 2026](./dalctf-2026.md) | DALCTF 2026 | Web, source inspection, PDF analysis, RSA, HID forensics, geolocation |
-| [Love at First Breach — detailed walkthrough](./love-at-first-breach-tryhackme.md) | TryHackMe | LFI, exposed credentials, RSA signatures, Next.js, prompt injection, JWT, file uploads, stored XSS, IDOR, MD5 collision |
+| Write-up | Platform / Event | Main areas | Format |
+|---|---|---|---|
+| [c4ptur3-th3-fl4g](./c4ptur3-th3-fl4g.md) | TryHackMe | Encoding, CyberChef, spectrograms, steganography | Summary |
+| [DALCTF 2026](./dalctf-2026.md) | DALCTF 2026 | Web, source inspection, PDF analysis, RSA, HID forensics, geolocation | Detailed notes |
+| [Love at First Breach — quick summary](./love-at-first-breach.md) | TryHackMe | Web vulnerabilities across 10 challenges | Concise overview |
+| [Love at First Breach — detailed walkthrough](./love-at-first-breach-tryhackme.md) | TryHackMe | LFI, exposed credentials, RSA signatures, Next.js, prompt injection, JWT, file uploads, stored XSS, IDOR, MD5 collision | Expanded walkthrough |
+
+For the Love at First Breach room, use the **quick summary** for a high-level review or the **detailed walkthrough** for challenge-by-challenge notes.
 
 ## Competition tracking
 
