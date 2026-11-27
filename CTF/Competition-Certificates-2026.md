@@ -13,7 +13,7 @@ This page records competition participation certificates and team placements tha
 | Null Origin CTF 2026 | 19 Sep 2026 | Individual certificate | Participation |
 | Athena CTF 2026 | 18 Jul 2026 | Syntax Terror (team) | Rank 171; team code shown: BEZ6NT |
 | BroncoCTF 2026 | 2026 | Syntax Terror (team) | Rank 129; 35/45 challenges; 1,722/3,777 points (certificate) |
-| Hackerv erse CTF — DFIR | 5 Oct 2026 | Individual certificate | Participation; certificate lists level “Grandmaster” |
+| Hackerverse CTF — DFIR | 5 Oct 2026 | Individual certificate | Participation; certificate lists level “Grandmaster” |
 | Junior Crypt CTF 2026 | 2026 | Syntax Terror (team) | 308th place |
 | BrunnerCTF 2026 | Aug 2026 | Syntax Terror (team) | 231st of 1,103 teams; 2,790 points; roster listed as LordKraken and ShadowSim |
 | CSSCTF 2026: Return of Nexus | 2026 | Syntax Terror (team) | Participation certificate |
