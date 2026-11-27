@@ -13,7 +13,7 @@ Write-ups summarized from my completed CTF and TryHackMe notes.
 ## Competition tracking
 
 - [Latest indexed Syntax Terror team snapshot — 2026-11-27](./CTFtime-team-snapshot-2026-11-27.md)
-- [Historical Syntax Terror snapshot — 2026-11-25](./CTFtime-2026-11-25.md)
+- [Historical Syntax Terror snapshot — 2026-11-25](./CTFtime-2026-snapshot-2026-11-25.md)
 - [Live Syntax Terror team profile](https://ctftime.org/team/437085)
 - [Live LordKraken individual profile](https://ctftime.org/user/261765)
 
