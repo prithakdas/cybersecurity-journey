@@ -1,22 +1,25 @@
-# Selected CTF Competition Results — 2026
+# Selected CTF Results — 2026
 
-This page highlights **selected team results worth showcasing** from certificates and supplied records. Lower placements and participation-only certificates are intentionally excluded from this highlights page. Team placements are attributed to **Syntax Terror**, not individual rankings.
+This is a **selective showcase**, not a complete list of every participation certificate. It prioritizes stronger team placements (generally top 150) and includes score/challenge context where available. All team ranks are attributed to **Syntax Terror**, not individual rankings.
 
 ## Selected Results
 
-| Event | Date | Attribution | Result |
-|---|---|---|---|
-| SecLeaf Q4 Operations CTF | 31 Oct 2026 | Syntax Terror (team) | **Rank 112** |
-| BroncoCTF 2026 | 2026 | Syntax Terror (team) | **Rank 129**; 35/45 challenges; 1,722/3,777 points |
-| Athena CTF 2026 | 18 Jul 2026 | Syntax Terror (team) | **Rank 171**; team code shown: BEZ6NT |
-| BrunnerCTF 2026 | Aug 2026 | Syntax Terror (team) | **Rank 231 of 1,103 teams**; 2,790 points; roster listed as LordKraken and ShadowSim |
+| Event | Team placement | Points / achievement | Evidence |
+|---|---:|---|---|
+| EyesOpenCTF 7th edition | **#68 / 90 teams** | 650 CTF points | [Final CTFtime scoreboard](https://ctftime.org/event/3419/); Nov 20–22, 2026 |
+| 0xV01D CTF 2026 V2 | **#69** | 7,140 CTF points | CTFtime team profile |
+| DalCTF 2026 | **#95** | 1,415 CTF points | CTFtime team profile; [write-up](./dalctf-2026.md) |
+| SecLeaf Q4 Operations CTF | **#112** | Team result certificate | Supplied certificate, Oct 31, 2026 |
+| BroncoCTF 2026 | **#129** | 35/45 challenges; 1,722/3,777 points | Supplied certificate and CTFtime team profile |
+| boroCTF 2026 | **#129** | 9,600 CTF points | CTFtime team profile |
+| Sieberrsec CTF 7.0 | **#143 / 216 teams** | 600 CTF points | [CTFtime event scoreboard](https://ctftime.org/event/3299/) |
 
-## Reporting Guidelines
+## Notes
 
-- The results above are transcribed from the supplied certificates and records.
-- Event placements are event-specific and are not global CTFtime rankings.
-- Team results are presented as team results; they are not individual placements.
-- Participation-only certificates and lower placements are omitted from this highlights page to keep the portfolio selective. They can be retained separately as a complete personal archive if needed.
-- For CTFtime season standings and event results, see the dated [CTFtime snapshots](./CTFtime-2026-snapshot-2026-11-25.md) and [team snapshot](./CTFtime-team-snapshot-2026-11-27.md).
+- Rankings and points are event-specific team results; they are not global CTFtime season rankings.
+- The EyesOpenCTF result is taken from its completed event scoreboard. The team's indexed profile had not yet listed it during this review, so the event scoreboard is linked separately.
+- Certificate details are transcribed from the certificates supplied by the user; CTFtime values come from the indexed Syntax Terror team page or event scoreboard.
+- Lower placements and participation-only certificates are intentionally omitted from this showcase. This is not a complete certificate archive.
+- The dated [CTFtime snapshot](./CTFtime-team-snapshot-2026-11-28.md) records the sources and access limitations for this review.
 
 `root@lordkraken:~/cybersecurity-journey/CTF$`
