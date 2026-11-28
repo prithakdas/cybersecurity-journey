@@ -52,3 +52,13 @@ The profile search result was available, but opening the LinkedIn page directly 
 - **CTFtime team:** The latest indexed team page found in this review (crawled approximately four days before the review) shows #732 overall, 114.232 rating points, country #77, and a broader event-results table. The older indexed result still conflicts (#675 / 113.963 / #67), and direct page access was blocked. This is not treated as a verified ranking change. [Team profile](https://ctftime.org/team/437085)
 - **CTFtime individual:** The individual page remained unavailable for reliable current rank/score verification. No personal score or rank is inferred from team placements. [Individual profile](https://ctftime.org/user/261765)
 - **Conclusion:** No new post, certification, personal achievement, or individual CTF result was verified today. The current public-profile descriptions were refreshed for reference only.
+
+
+## Review log — 2026-11-28
+
+- **CTFtime team:** The latest indexed Syntax Terror profile still shows 2026 overall #732, 114.232 rating points, and country #77 (result crawled approximately five days before this check). Direct page access was blocked, so no season-ranking change is verified. [Team profile](https://ctftime.org/team/437085)
+- **New event result:** The completed EyesOpenCTF 7th edition scoreboard shows **Syntax Terror at #68 of 90 teams with 650 points**. The event ran Nov 20–22, 2026. The team profile's indexed event list had not yet reflected this result, so the event scoreboard is used as the source. [Event scoreboard](https://ctftime.org/event/3419/)
+- **Selected-results refresh:** The indexed team page shows strong event placements at 0xV01D CTF 2026 V2 (#69), DalCTF 2026 (#95), BroncoCTF 2026 (#129), boroCTF 2026 (#129), and Sieberrsec CTF 7.0 (#143). The SecLeaf Q4 Operations #112 result is from the user's supplied certificate. These are team results. Lower placements and participation-only certificates were omitted from the showcase by request. [Selected results](../CTF/Competition-Certificates-2026.md)
+- **LinkedIn:** Search did not locate a reliable fresh result specific to the user's profile. Direct profile fetch was blocked. No new post, certification, project, or experience update is claimed. [LinkedIn](https://www.linkedin.com/in/prithak-das/)
+- **CTFtime individual:** Direct page fetch was blocked and search did not return a reliable current individual rank or score. No individual result is inferred from team data. [Individual profile](https://ctftime.org/user/261765)
+- **Conclusion:** One notable new team event result was verified (EyesOpenCTF #68). Season ranking metrics were unchanged in the indexed source; no new individual or LinkedIn achievement was verified.
