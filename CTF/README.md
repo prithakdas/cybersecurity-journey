@@ -13,13 +13,14 @@ Write-ups and summaries based on my completed CTF and TryHackMe notes. Flags, cr
 
 For the Love at First Breach room, use the **quick summary** for a high-level review or the **detailed walkthrough** for challenge-by-challenge notes.
 
-## Competition certificates & results
+## Selected competition results
 
-- [2026 certificate and result index](./Competition-Certificates-2026.md) — participation certificates, event ranks, team placements, and scores transcribed from supplied certificates.
+- [Selected CTF results — 2026](./Competition-Certificates-2026.md) — a curated showcase of stronger team placements; lower ranks and participation-only certificates are intentionally excluded.
 
 ## Competition tracking
 
-- [Latest indexed Syntax Terror team snapshot — 2026-11-27](./CTFtime-team-snapshot-2026-11-27.md)
+- [Latest selected-results snapshot — 2026-11-28](./CTFtime-team-snapshot-2026-11-28.md)
+- [Previous Syntax Terror snapshot — 2026-11-27](./CTFtime-team-snapshot-2026-11-27.md)
 - [Historical Syntax Terror snapshot — 2026-11-25](./CTFtime-2026-snapshot-2026-11-25.md)
 - [Live Syntax Terror team profile](https://ctftime.org/team/437085)
 - [Live LordKraken individual profile](https://ctftime.org/user/261765)
