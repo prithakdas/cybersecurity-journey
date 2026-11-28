@@ -53,19 +53,19 @@ Verified completed credentials and course certificates are indexed separately fr
 
 ## `$ competition_highlights`
 
-Selected 2026 CTF certificates and team results, transcribed from certificates:
+Selected 2026 **team** results for Syntax Terror. The showcase prioritizes stronger event placements (generally top 150); lower ranks and participation-only certificates are intentionally omitted.
 
-- **BroncoCTF 2026:** Syntax Terror — Rank 129; 35/45 challenges and 1,722/3,777 points.
-- **BrunnerCTF 2026:** Syntax Terror — 231/1,103 teams, 2,790 points.
-- **Athena CTF 2026:** Syntax Terror — Rank 171.
-- **SecLeaf Q4 Operations:** Syntax Terror — Rank 112.
-- **VIT CTF 2026:** Syntax Terror certificate — Rank 656/951.
-- **Junior Crypt CTF 2026:** Syntax Terror — 308th place.
-- Participation certificates: THEM?! CTF 2026, Zero Day Heist 2026, Null Origin CTF 2026, Hackerverse DFIR CTF, and CSSCTF: Return of Nexus.
+- **EyesOpenCTF 7th edition:** **#68 / 90 teams**, 650 points.
+- **0xV01D CTF 2026 V2:** **#69**, 7,140 points.
+- **DalCTF 2026:** **#95**, 1,415 points.
+- **SecLeaf Q4 Operations:** **#112** (certificate result).
+- **BroncoCTF 2026:** **#129**, 35/45 challenges; 1,722/3,777 points.
+- **boroCTF 2026:** **#129**, 9,600 points.
+- **Sieberrsec CTF 7.0:** **#143 / 216 teams**, 600 points.
 
-[Full certificate/result index →](./CTF/Competition-Certificates-2026.md)
+[Selected CTF results →](./CTF/Competition-Certificates-2026.md) · [Dated CTFtime snapshot →](./CTF/CTFtime-team-snapshot-2026-11-28.md)
 
-*Team placements are credited to Syntax Terror. Participation certificates are not presented as rankings; event ranks are distinct from CTFtime season rankings.*
+*These are team placements credited to Syntax Terror, not individual ranks or global CTFtime season rankings.*
 
 ## `$ repository_map`
 
